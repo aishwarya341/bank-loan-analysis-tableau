@@ -85,7 +85,7 @@ These filters allow users to analyze specific segments of the loan application d
 
 📷 Dashboard Preview
 
-![Bank Loan Analysis Dashboard](Data Analyst/bank_loan_dashboard.png)
+![Bank_Loan_Analysis_Dashboard](Data Analyst/bank_loan_dashboard.png)
 
 📁 Project Files
 
